@@ -1,0 +1,7 @@
+D:\LapTrinhOOP_N.Han\PhungThiNgocHan_044\PhungThiNgocHan-01\PhungThiNgocHan-01\bin\Debug\PhungThiNgocHan-01.exe.config
+D:\LapTrinhOOP_N.Han\PhungThiNgocHan_044\PhungThiNgocHan-01\PhungThiNgocHan-01\bin\Debug\PhungThiNgocHan-01.exe
+D:\LapTrinhOOP_N.Han\PhungThiNgocHan_044\PhungThiNgocHan-01\PhungThiNgocHan-01\bin\Debug\PhungThiNgocHan-01.pdb
+D:\LapTrinhOOP_N.Han\PhungThiNgocHan_044\PhungThiNgocHan-01\PhungThiNgocHan-01\obj\Debug\PhungThiNgocHan-01.csproj.AssemblyReference.cache
+D:\LapTrinhOOP_N.Han\PhungThiNgocHan_044\PhungThiNgocHan-01\PhungThiNgocHan-01\obj\Debug\PhungThiNgocHan-01.csproj.CoreCompileInputs.cache
+D:\LapTrinhOOP_N.Han\PhungThiNgocHan_044\PhungThiNgocHan-01\PhungThiNgocHan-01\obj\Debug\PhungThiNgocHan-01.exe
+D:\LapTrinhOOP_N.Han\PhungThiNgocHan_044\PhungThiNgocHan-01\PhungThiNgocHan-01\obj\Debug\PhungThiNgocHan-01.pdb
